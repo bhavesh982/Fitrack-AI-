@@ -1,6 +1,6 @@
 ﻿# Fitrack-AI-
 https://github.com/user-attachments/assets/366dae3a-8052-4e41-a15f-108be151fe70
-Minimalistic Design for Login and SignUp :
+![Minimalistic Design for Login and SignUp :]
 <img src="https://github.com/user-attachments/assets/8d8ee4fa-c8f2-45a3-9251-f4e444b116cb" width="250" height="550">
 <img src="https://github.com/user-attachments/assets/0fc14e5e-0c6a-4b1a-9bfe-8048a9527702" width="250" height="550">
 
