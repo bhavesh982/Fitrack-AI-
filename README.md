@@ -1,7 +1,7 @@
 ﻿# Fitrack-AI-
 https://github.com/user-attachments/assets/366dae3a-8052-4e41-a15f-108be151fe70
 
-<img src="https://github.com/user-attachments/assets/13c0e5d2-dafe-4d8f-80ad-5126655a0776" width="250" height="450">
+<img src="https://github.com/user-attachments/assets/13c0e5d2-dafe-4d8f-80ad-5126655a0776" width="250" height="550">
 ![Screenshot_2024-08-11-23-05-28-05_ef229664dc3e7a6398a72685fb0cc1e0](https://github.com/user-attachments/assets/8d8ee4fa-c8f2-45a3-9251-f4e444b116cb)
 ![Screenshot_2024-08-11-23-05-32-11_ef229664dc3e7a6398a72685fb0cc1e0](https://github.com/user-attachments/assets/0fc14e5e-0c6a-4b1a-9bfe-8048a9527702)
 ![Screenshot_2024-08-11-23-21-50-11_ef229664dc3e7a6398a72685fb0cc1e0](https://github.com/user-attachments/assets/d49ca35b-d2cb-4377-944b-d8e27b4d6a48)
