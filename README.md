@@ -4,7 +4,8 @@
  <video src="https://github.com/user-attachments/assets/366dae3a-8052-4e41-a15f-108be151fe70" width = "500" height="350" controls>
   Your browser does not support the video tag.
 </video></br>
-<img src="https://github.com/user-attachments/assets/8d8ee4fa-c8f2-45a3-9251-f4e444b116cb" width="250" height="500">Here we have a minimalistic ui</br>
+<h1>HELLO</h1>
+<img src="https://github.com/user-attachments/assets/8d8ee4fa-c8f2-45a3-9251-f4e444b116cb" width="250" height="500"></br>
 <img src="https://github.com/user-attachments/assets/0fc14e5e-0c6a-4b1a-9bfe-8048a9527702" width="250" height="500"></br>
 <img src="https://github.com/user-attachments/assets/d49ca35b-d2cb-4377-944b-d8e27b4d6a48" width="250" height="500"></br>
 <img src="https://github.com/user-attachments/assets/a36817d1-bfd9-4289-a551-fee34fed7608" width="250" height="500"></br>
